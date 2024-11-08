@@ -1,3 +1,8 @@
+<<<<<<< HEAD
 Bob likes cats.
+=======
+ALice likes cats
+
+>>>>>>> 07c2ca05aaf49ca3b470ac0bdf3850a44644c7a8
 
 
